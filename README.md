@@ -6,9 +6,6 @@ Additional Resources
 
 IRC Server: freenode.net Channel: #epub.js
 
-Follow us on twitter: @Epubjs
-
-+ http://twitter.com/#!/Epubjs
 
 Other
 -------------------------
